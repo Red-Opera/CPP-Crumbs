@@ -1,0 +1,6 @@
+﻿'계산기2.exe' (Win32): Loaded 'C:\Users\고스트\Documents\Visual Studio 2013\Projects\계산기2\Debug\계산기2.exe'. Symbols loaded.
+'계산기2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. Cannot find or open the PDB file.
+'계산기2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. Cannot find or open the PDB file.
+'계산기2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. Cannot find or open the PDB file.
+'계산기2.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcr120d.dll'. Cannot find or open the PDB file.
+The program '[3908] 계산기2.exe' has exited with code 0 (0x0).
